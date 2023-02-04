@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "workspaces": [
-    "packages/*",
+    "packages/*", 
     "apps/*",
     "apps/vscode/*",
     "examples/*"
